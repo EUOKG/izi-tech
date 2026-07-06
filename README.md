@@ -1,17 +1,17 @@
 <img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/aeab33d7-b26a-4eda-800d-e2356e9293a4" /># IZI TECH
 
-Site institucional da IZI TECH construida como landing page de alta conversao.
+Site institucional da IZI TECH construida como landing page de alta conversao comercial.
 
 ## Visao geral
 
-Esta aplicacao apresenta a marca, destaca servicos tecnicos, exibe prova social e oferece um fluxo de agendamento dentro da propria pagina.
+Esta aplicacao apresenta a marca da empresa, destaca servicos tecnicos, exibe prova social do trabalho e oferece um fluxo de agendamento dentro da propria pagina.
 
 Principais pontos do projeto:
 
 - interface em React com Vite e TypeScript
 - animacoes com Framer Motion
 - estilos com Tailwind CSS
-- scroll suave com Lenis
+- scroll suave com Lenis Scroll
 - formulario de agendamento integrado ao Formspree
 
 ## Stack
@@ -23,7 +23,7 @@ Principais pontos do projeto:
 - Framer Motion
 - Lucide React
 
-## Estrutura principal
+## Estrutura principal do projeto:
 
 ```text
 .
@@ -37,14 +37,14 @@ Principais pontos do projeto:
 `-- README.md        guia do projeto
 ```
 
-## Requisitos
+## Requisitos do projeto:
 
 - Node.js 20.19 ou superior
 - npm 10 ou superior
 
 O campo `engines` no `package.json` ja documenta a versao minima recomendada para build, inclusive em ambientes de CI e no Netlify.
 
-## Scripts disponiveis
+## Scripts disponiveis:
 
 ```bash
 npm run dev      # sobe o ambiente local
@@ -56,15 +56,7 @@ npm run lint     # valida o codigo com ESLint
 
 ## Formulario e integracoes
 
-O formulario de agendamento envia dados para o endpoint do Formspree configurado no codigo. Antes de colocar em producao, vale revisar se esse endpoint continua sendo o correto para a conta da IZI TECH.
-
-## Estado atual da entrega
-
-- dependencias descritas em `package.json` e travadas em `package-lock.json`
-- configuracao de deploy no Netlify adicionada
-- README refeito com instrucoes de uso e publicacao
-- build de producao validada
-- lint validado
+O formulario de agendamento envia dados para o endpoint do Formspree configurado no codigo direto.
 
 ## Comandos de verificacao usados
 
