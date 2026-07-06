@@ -1,68 +1,191 @@
-<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/aeab33d7-b26a-4eda-800d-e2356e9293a4" /># IZI TECH
+# IZI TECH
 
-Site institucional da IZI TECH construida como landing page de alta conversao comercial.
+Landing page institucional desenvolvida para a **IZI TECH**, com foco em apresentação profissional, clareza comercial e conversão por meio de um fluxo de agendamento integrado à própria página.
 
-**https://iziitech.com.br/**
+O projeto foi construído com React, Vite, TypeScript, Tailwind CSS e animações modernas para entregar uma experiência rápida, responsiva e visualmente refinada.
 
-## Visao geral
+---
 
-Esta aplicacao apresenta a marca da empresa, destaca servicos tecnicos, exibe prova social do trabalho e oferece um fluxo de agendamento dentro da propria pagina.
+## Preview
+
+![IZI TECH Hero Desktop](./docs/screenshots/izi-tech-hero-desktop.png)
+
+---
+
+## Visão geral
+
+A aplicação apresenta a marca IZI TECH de forma objetiva e profissional, destacando serviços técnicos, diferenciais, prova social e um fluxo direto de agendamento.
+
+O objetivo da landing page é transformar visitantes em potenciais clientes, reduzindo atrito e concentrando as principais informações em uma experiência de navegação fluida.
 
 Principais pontos do projeto:
 
-- interface em React com Vite e TypeScript
-- animacoes com Framer Motion
-- estilos com Tailwind CSS
-- scroll suave com Lenis Scroll
-- formulario de agendamento integrado ao Formspree
+* Interface moderna construída em React
+* Estrutura escalável com Vite e TypeScript
+* Estilização responsiva com Tailwind CSS
+* Animações com Framer Motion
+* Scroll suave com Lenis
+* Ícones com Lucide React
+* Formulário de agendamento integrado ao Formspree
+* Deploy preparado para Netlify
 
-## Stack
+---
 
-- React 19
-- Vite 7
-- TypeScript 5
-- Tailwind CSS 4
-- Framer Motion
-- Lucide React
+## Screenshots
 
-## Estrutura principal do projeto:
+### Hero desktop
+
+Primeira dobra da página, focada em impacto visual, apresentação da marca e chamada para ação.
+
+![IZI TECH Hero Desktop](./docs/screenshots/izi-tech-hero-desktop.png)
+
+### Serviços
+
+Seção criada para apresentar os principais serviços da IZI TECH de forma clara, organizada e fácil de entender.
+
+![IZI TECH Services](./docs/screenshots/izi-tech-services.png)
+
+### Fluxo de agendamento
+
+Área de conversão da landing page, permitindo que o usuário solicite atendimento diretamente pela página.
+
+![IZI TECH Booking Form](./docs/screenshots/izi-tech-booking.png)
+
+### Versão mobile
+
+Layout responsivo adaptado para dispositivos móveis, mantendo legibilidade, hierarquia visual e facilidade de navegação.
+
+![IZI TECH Mobile](./docs/screenshots/izi-tech-mobile.png)
+
+---
+
+## Stack utilizada
+
+* React 19
+* Vite 7
+* TypeScript 5
+* Tailwind CSS 4
+* Framer Motion
+* Lenis
+* Lucide React
+* Formspree
+* Netlify
+
+---
+
+## Estrutura principal
 
 ```text
 .
-|-- public/          assets estaticos
+|-- public/              assets estáticos
 |-- src/
-|   |-- components/  secoes e componentes da landing page
-|   |-- main.tsx     bootstrap da aplicacao
-|   `-- App.tsx      composicao principal da pagina
-|-- package.json     scripts e dependencias
-|-- netlify.toml     configuracao de build/deploy no Netlify
-`-- README.md        guia do projeto
+|   |-- components/      seções e componentes da landing page
+|   |-- main.tsx         bootstrap da aplicação
+|   `-- App.tsx          composição principal da página
+|-- docs/
+|   `-- screenshots/     imagens usadas na documentação do README
+|-- package.json         scripts e dependências
+|-- package-lock.json    lockfile das dependências
+|-- netlify.toml         configuração de build/deploy no Netlify
+`-- README.md            documentação do projeto
 ```
 
-## Requisitos do projeto:
+---
 
-- Node.js 20.19 ou superior
-- npm 10 ou superior
+## Requisitos
 
-O campo `engines` no `package.json` ja documenta a versao minima recomendada para build, inclusive em ambientes de CI e no Netlify.
+* Node.js 20.19 ou superior
+* npm 10 ou superior
 
-## Scripts disponiveis:
+O campo `engines` no `package.json` documenta a versão mínima recomendada para build, inclusive em ambientes de CI e deploy no Netlify.
+
+---
+
+## Como rodar o projeto
+
+Clone o repositório:
 
 ```bash
-npm run dev      # sobe o ambiente local
-npm run build    # gera a build de producao em dist/
-npm run preview  # serve a build localmente
-npm run lint     # valida o codigo com ESLint
+git clone https://github.com/seu-usuario/izi-tech.git
 ```
 
+Acesse a pasta do projeto:
 
-## Formulario e integracoes
+```bash
+cd izi-tech
+```
 
-O formulario de agendamento envia dados para o endpoint do Formspree configurado no codigo direto.
+Instale as dependências:
 
-## Comandos de verificacao usados
+```bash
+npm install
+```
+
+Inicie o ambiente de desenvolvimento:
+
+```bash
+npm run dev
+```
+
+---
+
+## Scripts disponíveis
+
+```bash
+npm run dev      # inicia o ambiente local
+npm run build    # gera a build de produção em dist/
+npm run preview  # executa a build localmente
+npm run lint     # valida o código com ESLint
+```
+
+---
+
+## Formulário e integrações
+
+O formulário de agendamento envia os dados para um endpoint do Formspree configurado no código.
+
+Antes de publicar ou transferir o projeto para produção definitiva, é recomendado revisar se o endpoint configurado continua correto para a conta da IZI TECH.
+
+---
+
+## Deploy
+
+O projeto está preparado para deploy no Netlify por meio do arquivo `netlify.toml`.
+
+Build command:
+
+```bash
+npm run build
+```
+
+Publish directory:
+
+```bash
+dist
+```
+
+---
+
+## Estado atual da entrega
+
+* Dependências descritas em `package.json`
+* Versões travadas em `package-lock.json`
+* Configuração de deploy no Netlify adicionada
+* README estruturado com instruções de uso, preview e screenshots
+* Build de produção validada
+* Lint validado
+
+---
+
+## Comandos de verificação utilizados
 
 ```bash
 npm run build
 npm run lint
 ```
+
+---
+
+## Objetivo do projeto
+
+Este projeto foi desenvolvido para apresentar a IZI TECH com uma presença digital mais profissional, moderna e confiável, destacando seus serviços técnicos e facilitando o contato com potenciais clientes por meio de uma landing page objetiva, responsiva e orientada à conversão.
