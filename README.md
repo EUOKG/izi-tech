@@ -2,8 +2,6 @@
 
 Site institucional da IZI TECH construida como landing page de alta conversao.
 
-<img width="1919" height="907" alt="image" src="https://github.com/user-attachments/assets/96a8ddc3-c45a-4960-884a-83202f3374d8" />
-
 ## Visao geral
 
 Esta aplicacao apresenta a marca, destaca servicos tecnicos, exibe prova social e oferece um fluxo de agendamento dentro da propria pagina.
