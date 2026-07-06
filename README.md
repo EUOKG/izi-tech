@@ -37,7 +37,7 @@ Principais pontos do projeto:
 
 Primeira dobra da página, focada em impacto visual, apresentação da marca e chamada para ação.
 
-![IZI TECH Hero Desktop](./docs/screenshots/izi-tech-hero-desktop.png)
+![IZI TECH Hero Desktop](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0baa122c-a5b7-47c6-ad24-72068df0d6d9" />)
 
 ### Serviços
 
