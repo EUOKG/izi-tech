@@ -59,12 +59,7 @@ Seção criada para apresentar os principais serviços da IZI TECH de forma clar
 
 Layout responsivo adaptado para dispositivos móveis, mantendo legibilidade, hierarquia visual e facilidade de navegação.
 
-[IZI TECH Mobile]
-<img width="377" height="818" alt="image" src="https://github.com/user-attachments/assets/715eb4ca-3b3a-4335-9234-1fbc630beb8e" />
-
-<img width="377" height="815" alt="image" src="https://github.com/user-attachments/assets/b432ff23-661d-4f02-919b-2f0a07008669" />
-
-<img width="377" height="819" alt="image" src="https://github.com/user-attachments/assets/a58d2fae-0caa-4e4a-b312-d084b0471d81" />
+[IZI TECH Mobile] <img width="377" height="818" alt="image" src="https://github.com/user-attachments/assets/715eb4ca-3b3a-4335-9234-1fbc630beb8e" />, <img width="377" height="815" alt="image" src="https://github.com/user-attachments/assets/b432ff23-661d-4f02-919b-2f0a07008669" />m <img width="377" height="819" alt="image" src="https://github.com/user-attachments/assets/a58d2fae-0caa-4e4a-b312-d084b0471d81" />
 
 ---
 
