@@ -8,7 +8,8 @@ O projeto foi construído com React, Vite, TypeScript, Tailwind CSS e animaçõe
 
 ## Preview
 
-![IZI TECH Hero Desktop](./docs/screenshots/izi-tech-hero-desktop.png)
+![IZI TECH Hero Desktop] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cab41c4-ccc9-4cc7-83f9-679a521f70df" />
+
 
 ---
 
