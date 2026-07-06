@@ -8,7 +8,7 @@ O projeto foi construído com React, Vite, TypeScript, Tailwind CSS e animaçõe
 
 ## Preview
 
-![IZI TECH Hero Desktop] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cab41c4-ccc9-4cc7-83f9-679a521f70df" />
+[IZI TECH Hero Desktop] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cab41c4-ccc9-4cc7-83f9-679a521f70df" />
 
 
 ---
@@ -38,25 +38,33 @@ Principais pontos do projeto:
 
 Primeira dobra da página, focada em impacto visual, apresentação da marca e chamada para ação.
 
-![IZI TECH Hero Desktop](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0baa122c-a5b7-47c6-ad24-72068df0d6d9" />)
+[IZI TECH Hero Desktop] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/995cf520-8975-4623-b2f1-3ef48da6d422" />
+
 
 ### Serviços
 
 Seção criada para apresentar os principais serviços da IZI TECH de forma clara, organizada e fácil de entender.
 
-![IZI TECH Services](./docs/screenshots/izi-tech-services.png)
+[IZI TECH Services] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0474f074-56b7-475a-b2f6-4730f366a20b" />
+
 
 ### Fluxo de agendamento
 
 Área de conversão da landing page, permitindo que o usuário solicite atendimento diretamente pela página.
 
-![IZI TECH Booking Form](./docs/screenshots/izi-tech-booking.png)
+[IZI TECH Booking Form] <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5af4e6f0-8524-4b22-b5cb-5a2312a46f37" />
+
 
 ### Versão mobile
 
 Layout responsivo adaptado para dispositivos móveis, mantendo legibilidade, hierarquia visual e facilidade de navegação.
 
-![IZI TECH Mobile](./docs/screenshots/izi-tech-mobile.png)
+[IZI TECH Mobile]
+<img width="377" height="818" alt="image" src="https://github.com/user-attachments/assets/715eb4ca-3b3a-4335-9234-1fbc630beb8e" />
+
+<img width="377" height="815" alt="image" src="https://github.com/user-attachments/assets/b432ff23-661d-4f02-919b-2f0a07008669" />
+
+<img width="377" height="819" alt="image" src="https://github.com/user-attachments/assets/a58d2fae-0caa-4e4a-b312-d084b0471d81" />
 
 ---
 
@@ -151,7 +159,7 @@ Antes de publicar ou transferir o projeto para produção definitiva, é recomen
 
 ## Deploy
 
-O projeto está preparado para deploy no Netlify por meio do arquivo `netlify.toml`.
+O projeto está preparado para deploy no Netlify por meio do arquivo `netlify.toml`. Onde esta hospedado.
 
 Build command:
 
